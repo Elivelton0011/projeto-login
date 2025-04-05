@@ -17,6 +17,7 @@ Grandes telas; acime de 1200px
 
     #login {
         width: 80vw;
+        height: 280px;
     }
     #imagem {
         float: left;
@@ -35,6 +36,7 @@ Grandes telas; acime de 1200px
     }
     #login {
         width: 950px;
+        height: 350px;
     }
     #imagem {
         float: right;
@@ -50,7 +52,9 @@ Grandes telas; acime de 1200px
         font-size: 2em;
     }
     #formulario > p {
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px 0px;
     }
+    
 }
     
